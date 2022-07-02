@@ -4,7 +4,7 @@ Virtual Casino - A Casino Simulator
 This C project simulates the real-life casino where people come to gamble money. There are three games - Roulette, Slot Machine and Craps.
 Chips or casino tokens are small discs used as terms of currency in casinos. You can buy a chip for $11 and sell it for $10.
 
-Roulette: 
+Roulette:
 Roulette is a game in which a ball is dropped on to a revolving wheel with numbered compartments from 1 to 36, the player betting on the number at which the
 ball comes to rest.
 There are three choices given to the user:
