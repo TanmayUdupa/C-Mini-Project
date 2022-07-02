@@ -27,3 +27,8 @@ Craps is a dice-game.
 6) If k comes up first, you win!
 7) If 7 comes up first, you lose.
 The player recieves a total return of twice the chips he/she bet.
+
+###Team Members:
+1. PES1UG21CS662 - TANMAY PRAVEEN UDUPA
+2. PES1UG21CS649 - T. P. SHRIAMBHIKESH
+3. PES1UG21CS692 - V VISHWA CHARAN
