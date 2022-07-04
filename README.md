@@ -10,7 +10,7 @@ Roulette is a game in which a ball is dropped on to a revolving wheel with numbe
 ball comes to rest.
 There are three choices given to the user:
 1. Bet if the ball lands on an even number or an odd number
-2. Bet is the ball lands on high (1 - 18) or low (19 - 36)
+2. Bet if the ball lands on high (1 - 18) or low (19 - 36)
 3. Bet on a specific number
 For 1 and 2, if the player wins, he/she recieves a total return of twice the chips he/she bet. In case of 3, if the player wins, he/she recieves a total return of 36 times the chips he/she bet.
 
