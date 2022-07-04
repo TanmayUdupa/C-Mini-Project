@@ -31,4 +31,4 @@ The player recieves a total return of twice the chips he/she bet.
 ### Team Members:
 1. PES1UG21CS662 - TANMAY PRAVEEN UDUPA
 2. PES1UG21CS659 - T. P. SHRIAMBHIKESH
-3. PES1UG21CS692 - V VISHWA CHARAN
+3. PES1UG21CS692 - V. VISHWA CHARAN
